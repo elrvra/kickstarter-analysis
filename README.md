@@ -3,7 +3,7 @@
 ## Overview of Project
  Louise is a playwright looking to start her own fundraising campaign to help fund her play “Fever”. Being a little reluctant and despite her budget of over $10K, Louise first seeks out analytical expertise to pin point specific reasons a campaign’s outcome would be successful. For the initial analysis to Louise, some important observations were made. First, while there are a total of 4144 Kickstarter campaigns across 19 countries, the theater category is the most popular at 1393 campaigns. The theater category is also the most successful at 839 out of 2185 successful outcomes (exhibit A). The play subcategory follows a similar trend; out of three subcategories (i.e. musical, plays, spaces), plays are in lead with a total ot 1066 campaigns compared to 187 for spaces and 140 for musicals. As like the theater category, the plays subcategory also has the highest number of successful campaigns at 694 out of 839 (exhibit B). 
  
-![Exhibit A](Exhibit_A_Parent_Category_Outcomes.png)
+![Exhibit A](Exhibit_A_Parent_Category_Outcomes.jpg)
 
  When analyzing the outcomes based on launch date for all campaigns categories, there was a spike of successful campaigns that began in May and then tapered off by the end of the year (exhibit C). By comparison, the technology campaigns reveals a different story. Instead of one large spike, their trend lines are all over the place (exhibit D). Furthermore, when creating an area chart of play outcomes based on active days, there is another large spike, reflecting a whopping 239 successful play campaigns which run for 30 days (exhibit E). 
 
