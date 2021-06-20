@@ -23,8 +23,12 @@
 ### Analysis of Outcomes Based on Launch Date
 When creating a line chart to visualize the relationship between outcomes and launch month, it can be observed that there are specific months when funraising campaigns do better. The highest month for successful theater outcomes was in May at 111, followed by June and July at 100 and 87 respectively. Therefore we could assume that it is easier to throw a campaign during these months prompted by a higher frequency of funding activity. 
 
+![alt tag](https://github.com/elrvra/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 When creating a line chart to visualize the relationship between percentage of outcomes and goal amount ranges, it can be observed that there are more people who give a smaller donation of <$5000, with 388 successful campaigns receiving goal amounts in the range of $1000-$4999 and 141 successful campaigns receiving goal amounts less than $1000. These amounts make up the majority at 76%. Therefore, we could assume that funders cannot support a higher amount or that funders may need to give lower amounts due to the many fudraising campaigns one could give to.
+
+![alt tag](https://github.com/elrvra/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 One of the challenges encountered, was interpreting the data into a meaningful analysis that tells the story of what is happening with the numbers. It is easy to get lost in the numbers and over analyze every detail assuming everything is pertinent to the story, but this was overcome by me understanding the goal and purpose of the story, and then then me asking questions to point my focus on where I need to analyze and compare to achieve it (e.g., is there a time plays are more successful during the year, how long are campaigns active for, what is the success rate for plays, what is the average donation for successful plays).
