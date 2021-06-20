@@ -42,7 +42,7 @@ Another challenge I encountered was understanding the chart information. For me,
 2. Based on my analysis, successful theater outcomes and failed theater outcomes are almost the same for the month of December. This may indicate that it is more difficult to throw a fundraising campaign during this time of year as compared to the warmer months, due to it being flu season and people are less active.
 
 - What can you conclude about the Outcomes based on Goals?
-1. Plays with a goal amount of <$5000, have the highest percentage of successful outcomes so it is a good idea when initiating a funraising campaign to review the goal amount ranges by id before seeking funding. This could indicate that most people do not have the ability from a financial standpoint to give any other amounts out of this range; maybe most of the funders are of the middle class.
+1. Plays with a goal amount of <$5000, have the highest percentage of successful outcomes so it is a good idea when initiating a funraising campaign to review the goal amount ranges by id before seeking funding. This could indicate that most people do not have the ability from a financial standpoint to give any other amounts out of this range. It could also suggest, that one or more donors could be giving out multiple donations during any given year, and this amounts given in this range satisfies donating to most or all of those committments.
 
 - What are some limitations of this dataset?
 1. The dataset does not show how long successful theater outcomes are active for, which seems to be a contributing factor.
