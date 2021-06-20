@@ -6,16 +6,17 @@
 ![alt tag](https://github.com/elrvra/kickstarter-analysis/blob/main/Exhibit_A_Parent_Category_Outcomes.png)
 ![alt tag](https://github.com/elrvra/kickstarter-analysis/blob/main/Exhibit_B_Subcategory_Outcomes.png)
 
-When analyzing the outcomes based on launch date for all campaigns categories, there was a spike of successful campaigns that began in May and then tapered off by the end of the year (exhibit C). By comparison, the technology campaigns reveals a different story. Instead of one large spike, their trend lines are all over the place (exhibit D). Furthermore, when creating an area chart of play outcomes based on active days, there is another large spike, reflecting a whopping 239 successful play campaigns which run for 30 days (exhibit E). 
+ When analyzing the outcomes based on launch date for all campaigns categories, there was a spike of successful campaigns that began in May and then tapered off by the end of the year (exhibit C). By comparison, the technology campaigns reveals a different story. Instead of one large spike, their trend lines are all over the place (exhibit D). Furthermore, when creating an area chart of play outcomes based on active days, there is another large spike, reflecting a whopping 239 successful play campaigns which run for 30 days (exhibit E). 
 
-![https://github.com/elrvra/kickstarter-analysis/blob/main/Exhibit_C_D_Theater_Technology_Outcomes_Based_On_Launch_Date.png]
+![alt tag](https://github.com/elrvra/kickstarter-analysis/blob/main/Exhibit_C_D_Theater_Technology_Outcomes_Based_On_Launch_Date.png)
+![alt tag](https://github.com/elrvra/kickstarter-analysis/blob/main/Exhibit_E_Play_Outcomes_Based_On_Active_Days.png)
 
-In conclusion, it seems that Louise will have luck her side given that the fundraising campaign she would spearhead is in a parent and subcategory that is not only popular, but highly suceesful compared to others. It is also important to note that May a good time for Louise to begin her campaign, but she has to keep in mind that the length of a campaign is correlated with its success. 
+ In conclusion, it seems that Louise will have luck her side given that the fundraising campaign she would spearhead is in a parent and subcategory that is not only popular, but highly suceesful compared to others. It is also important to note that May a good time for Louise to begin her campaign, but she has to keep in mind that the length of a campaign is correlated with its success. 
  
-Now, in order to further her understanding of the campaign arena, Louise would like to see how other campaigns compare to one another, by looking specificcally at their launch dates and their funding outcomes which can be summarizedd in the following body of this file. 
+ Now, in order to further her understanding of the campaign arena, Louise would like to see how other campaigns compare to one another, by looking specificcally at their launch dates and their funding outcomes which can be summarizedd in the following body of this file. 
 
 ### Purpose
-The purpose of this project is to deliver an analysis of Kickstarter Campaign data by use of pivots, graphs, and formulas to display pertinent details that will help Louise plan her campaign timeline as well as gauge the goal ranges needed in order to be successful in her campaign. 
+ The purpose of this project is to deliver an analysis of Kickstarter Campaign data by use of pivots, graphs, and formulas to display pertinent details that will help Louise plan her campaign timeline as well as gauge the goal ranges needed in order to be successful in her campaign. 
 
 ## Analysis and Challenges
 
